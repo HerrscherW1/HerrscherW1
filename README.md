@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @HerrscherW1
+- 👀 I’m interested in starting to learn programming
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on gaming (especially FG) related projects
+- 📫 How to reach me: herrscherw on Discord
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I will create the worst code knowm to mankind
